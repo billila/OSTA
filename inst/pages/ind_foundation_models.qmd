@@ -1,0 +1,38 @@
+# Foundations Models {#sec-ind-foundation-models}
+
+{{< include _start.qmd >}}
+
+## Preamble
+
+### Introduction
+
+A Foundation Model (FM) is “any model that is trained on broad data (generally using self-supervision at scale) that can be adapted (e.g., fine-tuned) to a wide range of downstream tasks.”
+(Stanford Institute for Human-Centered Artificial Intelligence)
+
+
+FMs are typically trained on vast datasets and have a large complexity (billions of parameters), requiring multiple GPUs and long and costly training.
+
+They can be applied to any types of data: text, images, matrix. 
+
+in the field of spatial transcriptomics they can be used to integrate information contain in H&E images or IF images with the spatial resoltions. 
+
+Models for H&E images: 
+* ProvGiga-Path 
+* UNI
+* CONCH (Graph-based)
+
+Models for IF images: 
+
+Models for single-cell: 
+
+Models for spatial transcriptomics: 
+
+Models for 
+
+
+FM in Biocondutors: (BiocFM)[https://github.com/BiocFM]
+
+
+
+## Background
+
