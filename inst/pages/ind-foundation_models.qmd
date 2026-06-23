@@ -30,7 +30,7 @@ Models for spatial transcriptomics:
 Models for 
 
 
-FM in Biocondutors: (BiocFM)[https://github.com/BiocFM]
+FM in Biocondutors: [BiocFM](https://github.com/BiocFM)
 
 
 
