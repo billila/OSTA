@@ -276,7 +276,7 @@ it is worth pausing before defaulting to one. As a rule of thumb:
   model would not.
 - **Benchmark against simpler baselines.** As discussed in
   [Outlook](#outlook), FMs do not always outperform linear models or PCA on a
-  given task—always compare against a simple baseline before committing to
+  given task-always compare against a simple baseline before committing to
   an FM-based pipeline.
 - **Verify that your tissue, species, and platform are represented in
   pre-training.** FM performance degrades outside the domain(s) seen during
@@ -301,7 +301,14 @@ of the data at hand before relying on FM embeddings for a new task.
 
 ::: {.callout-tip icon="false" title="Further reading"}
 
-- @lecun2015deep to learn more about deep learning methods.
+- @lecun2015deep provides a foundational introduction to deep learning,
+  including neural network architectures and the principles underlying
+  modern machine learning methods.
+
+- @Crowell2026BioHackathon discusses emerging directions in spatial
+  and imaging data analysis within Bioconductor, including challenges
+  and opportunities for integrating modern machine learning and
+  foundation-model-based approaches.
 
 - @Szalata2024 describe, review, and discuss future directions of
 transformers in single-cell omics: a popular architecture for FMs.
